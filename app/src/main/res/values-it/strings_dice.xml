@@ -17,7 +17,7 @@
     <string name="advantage_text">Vantaggio</string>
     <string name="threat_text">Minaccia</string>
     <string name="triumph_text">Trionfo</string>
-    <string name="despair_text">Despair</string>
-    <string name="light_side_points_text">Light Side Points</string>
-    <string name="dark_side_points_text">Dark Side Points</string>
+    <string name="despair_text">Disperazione</string>
+    <string name="light_side_points_text">Punti del lato chiaro</string>
+    <string name="dark_side_points_text">Punti del lato oscuro</string>
 </resources>

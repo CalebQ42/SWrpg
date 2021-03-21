@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="description_text">Description:</string>
-    <string name="severity_text">Severity:</string>
-    <string name="save_text">Save</string>
-    <string name="delete_text">Delete</string>
-    <string name="value_text">Value:</string>
-    <string name="count_text">Count:</string>
-    <string name="career_skill_text">Career Skill:</string>
-    <string name="skill_text">Skill:</string>
-    <string name="base_characteristic_text">Base Characteristic:</string>
-    <string name="name_text">Name:</string>
-    <string name="advantage_needed_text">Advantage Needed</string>
-    <string name="miss_text">Missed</string>
-    <string name="damage_text">Damage:</string>
-    <string name="specials_text">Specials:</string>
-    <string name="critical_text">Critical</string>
-    <string name="hard_points_text">Hard Points:</string>
-    <string name="weapon_state_text">Weapon State:</string>
-    <string name="add_text">Add</string>
-    <string name="add_brawn_text">Add Brawn</string>
-    <string name="loaded_text">Loaded</string>
-    <string name="slug_text">Slugthrower (needs ammo)</string>
-    <string name="encum_text">Encumbrance:</string>
+    <string name="description_text">Descrizone:</string>
+    <string name="severity_text">Gravità:</string>
+    <string name="save_text">Salva</string>
+    <string name="delete_text">Cancella</string>
+    <string name="value_text">Valore:</string>
+    <string name="count_text">Totale:</string>
+    <string name="career_skill_text">Abilità carriera:</string>
+    <string name="skill_text">Abilità:</string>
+    <string name="base_characteristic_text">Caratteristica di base:</string>
+    <string name="name_text">Nome:</string>
+    <string name="advantage_needed_text">Vantaggio necessario</string>
+    <string name="miss_text">Mancato</string>
+    <string name="damage_text">Danno:</string>
+    <string name="specials_text">Speciali:</string>
+    <string name="critical_text">Grave</string>
+    <string name="hard_points_text">Punti difficili:</string>
+    <string name="weapon_state_text">Stato dell\'arma:</string>
+    <string name="add_text">Aggiungi</string>
+    <string name="add_brawn_text">Aggiungi forza</string>
+    <string name="loaded_text">Caricato</string>
+    <string name="slug_text">Lanciarazzi (necessita munizioni)</string>
+    <string name="encum_text">Ingombro:</string>
 </resources>

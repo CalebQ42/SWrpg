@@ -12,7 +12,7 @@
     <string name="easy_text">Facile</string>
     <string name="average_text">Moderato</string>
     <string name="hard_text">Difficile</string>
-    <string name="daunting_text">Daunting</string>
+    <string name="daunting_text">Intimidire</string>
     <string name="formidable_text">Formidable</string>
     <!--Dice Descriptions-->
     <string name="ability_dice_desc">Basic positive die used in most skill checks. Represents aptitude in a skill.</string>
